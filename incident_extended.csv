@@ -1,0 +1,4 @@
+title,description,category,severity,status,reportedBy,location
+Conveyor jam,Station 3 conveyor stopped due to part jam,OPERATIONS,HIGH,OPEN,Line Supervisor,Line 2 - Station 3
+Oil spill near press,Small oil spill observed near Press A,SAFETY,MEDIUM,INVESTIGATING,Health & Safety,Press Area A
+Printer outage,Shipping label printer is offline,IT,LOW,RESOLVED,Warehouse Admin,Shipping Desk

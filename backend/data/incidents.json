@@ -1,0 +1,56 @@
+[
+  {
+    "id": "0b2c666d-63ee-4ef4-9fd7-6d0c4df9d468",
+    "title": "Oil spill near press",
+    "description": "Small oil spill observed near Press A",
+    "category": "SAFETY",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T00:14:59.632Z"
+  },
+  {
+    "id": "f69857b1-2bc7-485b-b318-ec1fd705f4b7",
+    "title": "Printer outage",
+    "description": "Shipping label printer is offline",
+    "category": "IT",
+    "severity": "LOW",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T00:14:59.634Z"
+  },
+  {
+    "id": "a2e964b0-63af-4554-b945-cf7ff30455ee",
+    "title": "Loose guard rail",
+    "description": "Guard rail at line entrance is loose",
+    "category": "SAFETY",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T00:14:59.636Z"
+  },
+  {
+    "id": "a3c7d5fd-2d5d-4ebd-bde9-299cb118832d",
+    "title": "Inventory scanner delay",
+    "description": "Handheld scanner latency causing delays",
+    "category": "IT",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T00:14:59.638Z"
+  },
+  {
+    "id": "126f5de2-d217-461f-8818-e6a859d91669",
+    "title": "Oil spill near press",
+    "description": "Small oil spill observed near Press A",
+    "category": "SAFETY",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T00:15:11.202Z"
+  },
+  {
+    "id": "c13616de-7d49-4e25-8d45-b67d618a457f",
+    "title": "Printer outage",
+    "description": "Shipping label printer is offline",
+    "category": "IT",
+    "severity": "LOW",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T00:15:11.204Z"
+  }
+]

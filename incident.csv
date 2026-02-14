@@ -1,0 +1,6 @@
+title,description,category,severity
+Conveyor jam,Station 3 conveyor stopped due to part jam,OPERATIONS,HIGH
+Oil spill near press,Small oil spill observed near Press A,SAFETY,MEDIUM
+Printer outage,Shipping label printer is offline,IT,LOW
+Loose guard rail,Guard rail at line entrance is loose,SAFETY,HIGH
+Inventory scanner delay,Handheld scanner latency causing delays,IT,MEDIUM
